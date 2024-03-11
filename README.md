@@ -8,6 +8,13 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KroMiose&layout=compact&theme=dark"/>
   </a>
 </p>
+
+### > Coding Activity
+
+<a href="https://github.com/KroMiose">
+  <img src="https://wakatime.com/share/@e2c8eb2a-e0c7-47bd-94a5-9305b0f58905/2b75b374-d1e8-4666-a5e8-157b12511aab.png" />
+</a>
+
 <!-- <p align="center">
   <a href="https://github.com/KroMiose">
     <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=KroMiose&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide=prs,issues"/>
