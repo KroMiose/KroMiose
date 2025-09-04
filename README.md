@@ -95,8 +95,10 @@
 
 ---
 
+<div align="center">
+
 *"Technology serves humanity, open source shares intelligence."* ✨
 
-![Profile Views](https://komarev.com/ghpvc/?username=KroMiose&style=for-the-badge&color=58a6ff)
+![Profile Views](https://komarev.com/ghpvc/?username=KroMiose&style=for-the-badge&color=58a6ff) *Since 2025.9.1*
 
 </div>
