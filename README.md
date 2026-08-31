@@ -18,6 +18,12 @@
   <img width="390" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KroMiose&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=58a6ff&icon_color=58a6ff" alt="Most Used Languages" />
 </div>
 
+## ⚡ Coding Activity
+
+<div align="center">
+  <img src="https://wakatime.com/share/@e2c8eb2a-e0c7-47bd-94a5-9305b0f58905/2f35814c-5777-4db3-a021-b7ecd99fb622.svg" alt="WakaTime Coding Activity" />
+</div>
+
 ## 🛠️ Technology Stack & Skills
 
 <div align="center">
