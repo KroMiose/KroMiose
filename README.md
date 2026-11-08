@@ -49,6 +49,9 @@
   <img alt="GitHub 数据：获得星标、关注者、近一年贡献、参与仓库" src="https://nekro.ai/api/cards/github/light.svg" width="100%">
 </picture>
 
-<p align="center"><img src="https://wakatime.com/share/@e2c8eb2a-e0c7-47bd-94a5-9305b0f58905/2f35814c-5777-4db3-a021-b7ecd99fb622.svg" alt="WakaTime coding activity" width="560"></p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://nekro.ai/api/cards/wakatime/dark.svg">
+  <img alt="近 30 天编码时长（WakaTime）" src="https://nekro.ai/api/cards/wakatime/light.svg" width="100%">
+</picture>
 
 <p align="center"><sub>有想法或问题，欢迎来 <a href="https://cloud.nekro.ai">社区</a> 或 QQ 群 636925153 找我。</sub></p>
