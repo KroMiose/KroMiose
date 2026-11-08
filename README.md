@@ -1,104 +1,49 @@
-# 👋 Hi there, I'm KroMiose
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+  <img alt="KroMiose — 做开放、有陪伴、随手可得的智能体与工具" src="assets/banner-light.svg" width="100%">
+</picture>
 
-<div align="center">
+<p align="center">
+  <a href="https://nekro.ai">nekro.ai</a> &nbsp;·&nbsp;
+  <a href="https://github.com/NekroAI">NekroAI</a> &nbsp;·&nbsp;
+  <a href="https://doc.nekro.ai">文档</a> &nbsp;·&nbsp;
+  <a href="https://cloud.nekro.ai">社区</a>
+</p>
 
-**🤖 AI Agent Framework Developer | 🚀 Full-Stack Engineer | 🌟 Open Source Enthusiast | 🎯 [NekroAI](https://github.com/NekroAI) Founder**
+你好，我是 KroMiose，[NekroAI](https://nekro.ai) 的发起人。从 2023 年的一个聊天插件开始，一路做到现在：开放、可扩展的智能体，陪伴在群聊里的伙伴，以及触手可及的日常工具。
 
-[![GitHub followers](https://img.shields.io/github/followers/KroMiose?style=social)](https://github.com/KroMiose)
-[![GitHub stars](https://img.shields.io/github/stars/KroMiose?style=social)](https://github.com/KroMiose)
+<sub>Hi, I'm KroMiose, founder of NekroAI — open agents, companions for group chats, and everyday tools within reach.</sub>
 
-</div>
+## 正在做 <sub>Now</sub>
 
----
+#### 智能体 <sub>Agents</sub>
 
-## 📊 GitHub Statistics
+<a href="https://nekro.ai/#nxt"><img src="assets/nxt.png" width="20" align="absmiddle"></a> &nbsp;**[NekroNXT](https://nekro.ai/#nxt)** · 零代码、能自我进化的群聊智能体 &nbsp;<sub>[nxt.nekro.ai](https://nxt.nekro.ai) · [GitHub](https://github.com/NekroAI/nekro-nxt)</sub><br>
+<a href="https://nekro.ai/#nekro-agent"><img src="assets/nekro-agent.png" width="20" align="absmiddle"></a> &nbsp;**[NekroAgent](https://nekro.ai/#nekro-agent)** · 开源的多人互动 Agent 框架 &nbsp;<sub>[GitHub](https://github.com/KroMiose/nekro-agent) · [文档](https://doc.nekro.ai)</sub>
 
-<div align="center">
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=KroMiose&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&icon_color=58a6ff&text_color=c9d1d9&title_color=58a6ff" alt="KroMiose's GitHub Stats" />
-  <img width="390" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KroMiose&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=58a6ff&icon_color=58a6ff" alt="Most Used Languages" />
-</div>
+#### 日常工具 <sub>Everyday tools</sub>
 
-## ⚡ Coding Activity
+<a href="https://nekro.ai/#qantrip"><img src="assets/qantrip.png" width="20" align="absmiddle"></a> &nbsp;**[Qantrip](https://nekro.ai/#qantrip)** · 按下 ⌃Q，几个字母展开完整提示词 &nbsp;<sub>[qantrip.nekro.ai](https://qantrip.nekro.ai) · [GitHub](https://github.com/NekroAI/qantrip)</sub><br>
+<a href="https://nekro.ai/#touchos"><img src="assets/touchos.png" width="20" align="absmiddle"></a> &nbsp;**[TouchOS](https://nekro.ai/#touchos)** · 触控板上的可视化快捷面板 &nbsp;<sub>[GitHub](https://github.com/NekroAI/touchos)</sub><br>
+<a href="https://nekro.ai/#kitestring"><img src="assets/kitestring.png" width="20" align="absmiddle"></a> &nbsp;**[纸鸢 Kitestring](https://nekro.ai/#kitestring)** · 风筝飞得再远，线在你手里 &nbsp;<sub>[GitHub](https://github.com/NekroAI/kitestring)</sub>
 
-<div align="center">
-  <img src="https://wakatime.com/share/@e2c8eb2a-e0c7-47bd-94a5-9305b0f58905/2f35814c-5777-4db3-a021-b7ecd99fb622.svg" alt="WakaTime Coding Activity" />
-</div>
+#### 边缘平台 <sub>On the edge</sub>
 
-## 🛠️ Technology Stack & Skills
+<a href="https://nekro.ai/#nekro-endpoint"><img src="assets/endpoint.png" width="20" align="absmiddle"></a> &nbsp;**[NekroEndpoint](https://nekro.ai/#nekro-endpoint)** · 在边缘编排与分发 API 端点 &nbsp;<sub>[ep.nekro.ai](https://ep.nekro.ai) · [GitHub](https://github.com/NekroAI/nekro-endpoint)</sub><br>
+<a href="https://nekro.ai/works#claude-code-nexus"><img src="assets/knot.svg" width="20" align="absmiddle"></a> &nbsp;**[Claude Code Nexus](https://nekro.ai/works#claude-code-nexus)** · 让 Claude Code 接入任意兼容接口 &nbsp;<sub>[claude.nekro.ai](https://claude.nekro.ai) · [GitHub](https://github.com/KroMiose/claude-code-nexus)</sub><br>
+<a href="https://nekro.ai/works#one-tracker"><img src="assets/knot.svg" width="20" align="absmiddle"></a> &nbsp;**[One Tracker](https://nekro.ai/works#one-tracker)** · 比较各家中转站的真实 Token 成本 &nbsp;<sub>[ot.nekro.ai](https://ot.nekro.ai) · [GitHub](https://github.com/NekroAI/one-tracker)</sub>
 
-<div align="center">
+<sub>[全部作品 →](https://nekro.ai/works)</sub>
 
-### 💻 Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+## 一路走来 <sub>Along the way</sub>
 
-### 🔧 Backend Frameworks & Technologies
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-![Hono](https://img.shields.io/badge/Hono-E36002?style=for-the-badge&logo=hono&logoColor=white)
-![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
-![SQLModel](https://img.shields.io/badge/SQLModel-1B1F23?style=for-the-badge&logo=sqlmodel&logoColor=white)
-![AsyncIO](https://img.shields.io/badge/AsyncIO-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![TortoiseORM](https://img.shields.io/badge/Tortoise_ORM-FF6B6B?style=for-the-badge&logo=tortoise&logoColor=white)
+`2023` &nbsp;**Naturel GPT** · NoneBot 上的聊天插件，一切从这里开始<br>
+`2024` &nbsp;**NekroAgent** · AI 在群聊中写代码、在沙盒中执行<br>
+`2025` &nbsp;**平台与模板** · NekroEndpoint、Claude Code Nexus、One Tracker<br>
+`2026` &nbsp;**NXT 与工具** · NekroNXT、Qantrip、TouchOS、纸鸢
 
-### 🌐 Frontend Frameworks & UI Libraries
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![UnoCSS](https://img.shields.io/badge/UnoCSS-333333?style=for-the-badge&logo=unocss&logoColor=white)
+## 最近在写 <sub>Coding activity</sub>
 
-### 🛠️ Development Tools & Build Systems
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![PDM](https://img.shields.io/badge/PDM-0A0A0A?style=for-the-badge&logo=pdm&logoColor=white)
-![Poetry](https://img.shields.io/badge/Poetry-60A5FA?style=for-the-badge&logo=poetry&logoColor=white)
-![UV](https://img.shields.io/badge/UV-3A0CA3?style=for-the-badge&logo=chocolatey&logoColor=white)
+<p align="center"><img src="https://wakatime.com/share/@e2c8eb2a-e0c7-47bd-94a5-9305b0f58905/2f35814c-5777-4db3-a021-b7ecd99fb622.svg" alt="WakaTime coding activity" width="560"></p>
 
-### ☁️ Cloud & Edge Computing
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-![Cloudflare Workers](https://img.shields.io/badge/Cloudflare_Workers-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-![Cloudflare Pages](https://img.shields.io/badge/Cloudflare_Pages-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-
-### 🛢️ Database & ORM
-![Cloudflare D1](https://img.shields.io/badge/Cloudflare_D1-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Drizzle ORM](https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=KroMiose&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=ff6b6b&point=58a6ff">
-    <img alt="KroMiose's GitHub activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=KroMiose&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=ff6b6b&point=58a6ff">
-  </picture>
-</div>
-
----
-
-## 🎯 About Me
-
-- 🎯 **Founder of**: [NekroAI](https://github.com/NekroAI) - Building the future of AI agent frameworks
-- 🔭 **Currently Working On**: [NekroAgent](https://github.com/KroMiose/nekro-agent) - Building the next generation of extensible AI agent frameworks
-- 🌱 **Focus Areas**: LLM Applications, AI Agent Development, Full-Stack Development, Multi-Platform Integration
-- 💡 **Expertise**: Python Backend Development, AI/ML Integration, Container Orchestration, Real-time Systems
-- 🖥️ **Development Environment**: macOS, Ubuntu Linux
-
----
-
-<div align="center">
-
-*"Technology serves humanity, open source shares intelligence."* ✨
-
-![Profile Views](https://komarev.com/ghpvc/?username=KroMiose&style=for-the-badge&color=58a6ff) *Since 2025.9.1*
-
-</div>
+<p align="center"><sub>智能体可以走得很远，但关键决策始终回到人的手中。</sub></p>
