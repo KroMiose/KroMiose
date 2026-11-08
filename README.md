@@ -54,4 +54,4 @@
   <img alt="近 30 天编码时长（WakaTime）" src="https://nekro.ai/api/cards/wakatime/light.svg" width="100%">
 </picture>
 
-<p align="center"><sub>有想法或问题，欢迎来 <a href="https://cloud.nekro.ai">社区</a> 或 QQ 群 636925153 找我。</sub></p>
+<p align="center"><sub>让智能平等地抵达每一个人。<br>Intelligence, within reach of everyone.</sub></p>
